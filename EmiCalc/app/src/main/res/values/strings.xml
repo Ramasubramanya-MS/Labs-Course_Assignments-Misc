@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmiCalc</string>
+    <string name="enter_down_payment">Enter Down Payment...</string>
+    <string name="enter_principal_amount">Enter Principal Amount...</string>
+    <string name="enter_loan_term_in_months">Enter Loan Term In Months...</string>
+    <string name="enter_interest_rate">Enter Interest Rate...</string>
+</resources>
